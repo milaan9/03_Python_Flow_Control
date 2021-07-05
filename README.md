@@ -1,3 +1,17 @@
+<p align="center"> 
+ <img src="https://badges.pufler.dev/updated/milaan9/03_Python_Flow_Control" alt="milaan9"/>  
+ <img src="https://badges.pufler.dev/created/milaan9/03_Python_Flow_Control" alt="milaan9"/>  
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmilaan9%2F03_Python_Flow_Control&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/milaan9/03_Python_Flow_Control/stargazers"><img src="https://img.shields.io/github/stars/milaan9/03_Python_Flow_Control" alt="Stars Badge"/></a>
+<a href="https://github.com/milaan9/03_Python_Flow_Control/network/members"><img src="https://img.shields.io/github/forks/milaan9/03_Python_Flow_Control" alt="Forks Badge"/> </a>
+<a href="https://github.com/milaan9/03_Python_Flow_Control/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/milaan9/03_Python_Flow_Control" /></a> 
+<a href="https://github.com/milaan9/03_Python_Flow_Control/pulls"><img src="https://img.shields.io/github/issues-pr/milaan9/03_Python_Flow_Control" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/milaan9/03_Python_Flow_Control/issues"><img src="https://img.shields.io/github/issues/milaan9/03_Python_Flow_Control" alt="Issues Badge"/></a>
+</p> 
+<!--<img src="https://badges.pufler.dev/contributors/milaan9/01_Python_Introduction?size=50&padding=5&bots=true" alt="milaan9"/>-->
+ 
+ 
+
 # 03_Python_Flow_Control
 
 ## Introduction 👋
