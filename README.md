@@ -29,21 +29,21 @@ They are **decision making statements** that allow the program to take the decis
 
 Decision Making statements are used when we want a set of instructions should be executed in one situation and different instructions should be executed in another situation .Decision making can be implemented in python using:
 
-**`if`** statements
+&#8594; **`if`** statements
 
-**`else`** statements
+&#8594; **`else`** statements
 
-**`elif`** statements
+&#8594; **`elif`** statements
 
-**`for`** loops
+&#8594; **`for`** loops
 
-**`while`** loops
+&#8594; **`while`** loops
 
-**`break`** statement
+&#8594; **`break`** statement
 
-**`control`** statement
+&#8594; **`control`** statement
 
-**`pass`** statement
+&#8594; **`pass`** statement
 
 
 ## Table of contents 📋
