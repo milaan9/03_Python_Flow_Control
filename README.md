@@ -21,7 +21,7 @@
 
 ## Introduction 👋
 
-Control flow statements are an essential part of the Python programming language.
+The control flow statements are an essential part of the Python programming language.
 
 A control flow statement is a block of programming that analyses variables and chooses a direction in which to go based on given parameters. In simple sentence, a control structure is just a decision that the computer makes. So, it is the basic decision-making process in programming and flow of control determines how a computer program will respond when given certain conditions and parameters. It determines the  order in which the program’s code executes.
 
