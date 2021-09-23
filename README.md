@@ -78,7 +78,7 @@ Go [here](https://github.com/milaan9/03_Python_Flow_Control) if you aren't here 
 
 1. Go [here](https://github.com/milaan9/03_Python_Flow_Control) if you aren't here already.
     
-2. Click the big green '`Code`' button in the top right of the page, then click '[`Download ZIP`](https://github.com/milaan9/03_Python_Flow_Control/archive/refs/heads/main.zip)".
+2. Click the big green '`Code`' button in the top right of the page, then click '[`Download ZIP`](https://github.com/milaan9/03_Python_Flow_Control/archive/refs/heads/main.zip)'.
 
     ![Download ZIP](img/dnld_rep.png)
 
